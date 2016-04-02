@@ -16,9 +16,9 @@ keywords:
   - tower
   - theater
   - cbp
-description: "Corporate Office**Wellstar CO-Repurposing of Existing 100,000SF 3-Story Building for use as Corporate Offices, Video Conference Boardroom, Bistro, and Fitness Center**NGHS CO Support Center-Repurposing of Existing 100,000SF Big Box Retail for use as Corporate Service Center -Open Office/Collaborative Environment-Includes Video Conference Rooms, Bistro, and Fitness Center**WellStar Bistro & Fitness-Staff Bistro and Fitness Center AdditionGovernment**GSA/CBP Laboratory-35,000SF Laboratory for Customs and Border Protection in Savannah, GAHealthcare/Hospital**WellStar Blue Tower - Phase II-8-Story Patient Tower Addition (108 Patient Rooms) Religious **St Joseph's Catholic Church-Classroom and Gymnasium Addition**Perimeter Church-New 2-Story Addition-Youth Theater, Children's Theater, Classrooms, Offices, Climbing Wall, Basketball Cages"
-datePublished: '2016-04-02T20:27:59.612Z'
-dateModified: '2016-04-02T20:27:41.935Z'
+description: Corporate Office
+datePublished: '2016-04-02T20:29:37.650Z'
+dateModified: '2016-04-02T20:28:52.007Z'
 author: []
 related: []
 app_links: []
